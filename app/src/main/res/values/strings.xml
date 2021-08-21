@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ola Mundo</string>
+    <string-array name="opcoes">
+        <item>Opção 1</item>
+        <item>Opção 2</item>
+        <item>Opção 3</item>
+    </string-array>
+</resources>
